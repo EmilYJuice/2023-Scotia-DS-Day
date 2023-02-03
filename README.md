@@ -1,5 +1,6 @@
 # 2023-Scotia-DS-Day
-:star:Winter 2023 Scotiabank Data Science Discovery Day (Credit Card Fraud Detection)
+:star: Winter 2023 Scotiabank Data Science Discovery Day (Credit Card Fraud Detection)
+:star: Team-B4U
 
 ### Background
 The widespread use of credit cards in Canada, coupled with the increase in online transactions during 
